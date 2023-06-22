@@ -9,6 +9,7 @@
 - This show the head of the dataset, the first 6 tuples/rows of the titanic dataset
 
 if we execute this command *df.heaad* 
+
 ![df.head](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000722.png)
 
 
@@ -19,16 +20,24 @@ if we execute this command *df.heaad*
 - Then I have done feature engineering that is merged two datasets and created a new more readable dataset family size
 
 
+
+
 ## Data Visualization
    
+
 - Age Distribution
+  
   ![Age Distribution](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000756.png)
 
 - Fare vs Age
+  
   ![Fare vs Age](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000804.png)
 
 - Survival Count
+  
   ![Survival Count](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000813.png)
+
+
 
 
 ## Correlation Analysis
@@ -36,8 +45,10 @@ if we execute this command *df.heaad*
 ![Correlation Matrix](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20001831.png)
 
 
+
 ## Perfomed Calculations
 
 Calculated the mean age,median age using *np.mean* and *np.median* respectively and then calculated the standard deviation of age and fare using *np.std* 
+
 
 ![](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000902.png)
