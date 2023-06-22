@@ -8,7 +8,7 @@
 ## Load the Data Set
 - This show the head of the dataset, the first 6 tuples/rows of the titanic dataset
 
-if we execute this command ![df.head]()
+if we execute this command ![df.head](screenshots/Screenshot 2023-06-23 000722.png)
 
 
 ## Data Cleaning and Preprocessing
@@ -20,20 +20,20 @@ if we execute this command ![df.head]()
 
 ## Data Visualization
 
-- ![Age Distribution]()
+- ![Age Distribution](screenshots/Screenshot 2023-06-23 000756.png)
 
-- ![Fare vs Age]()
+- ![Fare vs Age](screenshots/Screenshot 2023-06-23 000804.png)
 
-- ![Survival Count]()
+- ![Survival Count](screenshots/Screenshot 2023-06-23 000813.png)
 
 
 ## Correlation Analysis
 
-- ![Correlation Matrix](Titanic_EDA/screenshots/)
+- ![Correlation Matrix](screenshots/Screenshot 2023-06-23 001831.png)
 
 
 ## Perfomed Calculations
 
 Calculated the mean age,median age using *np.mean* and *np.median* respectively and then calculated the standard deviation of age and fare using *np.std* 
 
-- ![]()
+- ![](screenshots/Screenshot 2023-06-23 000902.png)
