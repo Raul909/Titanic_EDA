@@ -8,7 +8,7 @@
 ## Load the Data Set
 - This show the head of the dataset, the first 6 tuples/rows of the titanic dataset
 
-if we execute this command ![df.head](screenshots/Screenshot 2023-06-23 000722.png)
+if we execute this command ![df.head](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000722.png)
 
 
 ## Data Cleaning and Preprocessing
@@ -20,20 +20,20 @@ if we execute this command ![df.head](screenshots/Screenshot 2023-06-23 000722.p
 
 ## Data Visualization
 
-- ![Age Distribution](screenshots/Screenshot 2023-06-23 000756.png)
+- ![Age Distribution](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000756.png)
 
-- ![Fare vs Age](screenshots/Screenshot 2023-06-23 000804.png)
+- ![Fare vs Age](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000804.png)
 
-- ![Survival Count](screenshots/Screenshot 2023-06-23 000813.png)
+- ![Survival Count](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000813.png)
 
 
 ## Correlation Analysis
 
-- ![Correlation Matrix](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20001831.png)
+![Correlation Matrix](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20001831.png)
 
 
 ## Perfomed Calculations
 
 Calculated the mean age,median age using *np.mean* and *np.median* respectively and then calculated the standard deviation of age and fare using *np.std* 
 
-- ![](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000902.png)
+![](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000902.png)
