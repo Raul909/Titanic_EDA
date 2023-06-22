@@ -8,7 +8,8 @@
 ## Load the Data Set
 - This show the head of the dataset, the first 6 tuples/rows of the titanic dataset
 
-if we execute this command ![df.head](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000722.png)
+if we execute this command *df.heaad* 
+![df.head](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000722.png)
 
 
 ## Data Cleaning and Preprocessing
@@ -19,12 +20,15 @@ if we execute this command ![df.head](https://github.com/Raul909/Titanic_EDA/blo
 
 
 ## Data Visualization
+   
+- Age Distribution
+  ![Age Distribution](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000756.png)
 
-- ![Age Distribution](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000756.png)
+- Fare vs Age
+  ![Fare vs Age](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000804.png)
 
-- ![Fare vs Age](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000804.png)
-
-- ![Survival Count](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000813.png)
+- Survival Count
+  ![Survival Count](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000813.png)
 
 
 ## Correlation Analysis
