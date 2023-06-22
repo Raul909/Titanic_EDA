@@ -29,11 +29,11 @@ if we execute this command ![df.head](screenshots/Screenshot 2023-06-23 000722.p
 
 ## Correlation Analysis
 
-- ![Correlation Matrix](screenshots/Screenshot 2023-06-23 001831.png)
+- ![Correlation Matrix](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20001831.png)
 
 
 ## Perfomed Calculations
 
 Calculated the mean age,median age using *np.mean* and *np.median* respectively and then calculated the standard deviation of age and fare using *np.std* 
 
-- ![](screenshots/Screenshot 2023-06-23 000902.png)
+- ![](https://github.com/Raul909/Titanic_EDA/blob/main/screenshots/Screenshot%202023-06-23%20000902.png)
