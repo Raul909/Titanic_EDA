@@ -2,7 +2,7 @@
 --------------
 ## Import the Libraries
 
-- First I have imported the libraries that needed to be imported to do data manipulation(panda),perform calculations(numpy) and for data visualization(matplotlib)
+- First I have imported the libraries that needed to be imported to do data manipulation(*panda*),perform calculations(*numpy*) and for data visualization(*matplotlib*)
 
 
 ## Load the Data Set
